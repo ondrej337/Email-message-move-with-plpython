@@ -1,11 +1,5 @@
 /*
- Navicat PostgreSQL Data Transfer
-
- Source Server         : doma@db_server
- Source Server Type    : PostgreSQL
- Source Server Version : 150002 (150002)
- Source Host           : localhost:5432
- Source Catalog        : doma
+ 
  Source Schema         : mycron
 
  Target Server Type    : PostgreSQL
